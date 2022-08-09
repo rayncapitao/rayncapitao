@@ -22,7 +22,11 @@
 <!-- Badges -->
 <!--
 <div> 
-  
-
+  <a href="" target="_blank"><img src="" target="_blank"></a>
 </div>
 -->
+
+<!-- Badges add -->
+<!-- https://github.com/Ileriayo/markdown-badges -->
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-static -->
+<!-- <a href="" target="_blank"><img src="" target="_blank"></a> -->
