@@ -1,5 +1,8 @@
 ## Hi! My name is Ryan Capitao.
 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+  <i class="devicon-adonisjs-original colored"></i>
+
 <!-- Stats -->
 <div align="center">
   <a href="https://github.com/rayncapitao">
@@ -15,6 +18,7 @@
   <img align="center" alt="Rayn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rayn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rayn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rayn-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />    
 </div>
   
 ##
