@@ -1,36 +1,14 @@
-## Hi! My name is Ryan Capitao.
+# 👋 Hi, I'm Ryan!
+I'm a computer science studant building my skills and knowledge one step at a time. <br>
+My projects are created from scratch, allowing me to deeply explore and understand each stage of development, from conception to final implementation.<br>
+Now I'm focused on learning and improving my knowledge in web development.
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-  <i class="devicon-adonisjs-original colored"></i>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- Stats -->
-<div align="center">
-  <a href="https://github.com/rayncapitao">
-  <img height="160rem%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rayncapitao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160rem%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rayncapitao&layout=compact&langs_count=6&theme=dracula"/>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rayncapitao&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rayncapitao&theme=shades-of-purple&hide_border=true)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayncapitao&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
 
-##
-
-<!-- Languages -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />    
-</div>
-  
-##
-  
-<!-- Badges -->
-<!--
-<div> 
-  <a href="" target="_blank"><img src="" target="_blank"></a>
-</div>
--->
-
-<!-- Badges add -->
-<!-- https://github.com/Ileriayo/markdown-badges -->
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-static -->
-<!-- <a href="" target="_blank"><img src="" target="_blank"></a> -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
