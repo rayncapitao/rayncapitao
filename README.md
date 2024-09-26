@@ -15,8 +15,8 @@ Now I'm focused on learning and improving my knowledge in web development.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rayncapitao&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
+<!-- # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rayncapitao&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rayncapitao&theme=shades-of-purple&hide_border=true)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayncapitao&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
 
