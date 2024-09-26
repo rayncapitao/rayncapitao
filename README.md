@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ryan!
-I'm a computer science studant building my skills and knowledge one step at a time. <br>
+I'm a computer science student building my skills and knowledge one step at a time. <br>
 My projects are created from scratch, allowing me to deeply explore and understand each stage of development, from conception to final implementation.<br>
 Now I'm focused on learning and improving my knowledge in web development.
 
